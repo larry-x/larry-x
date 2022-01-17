@@ -1,0 +1,4 @@
+- 👋 I’m Larry, a developer in fast forward motion
+- 👀 I code in C#, .NET, SQL, Javascript, CSS
+- 🌱 But always want to learn more
+- 📫 Personal blog at zwei.link
